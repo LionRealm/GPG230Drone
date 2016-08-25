@@ -1,5 +1,5 @@
 #pragma once
-//#include "InputInterface.h"
+#include "IInputInterface.h"
 #include "IInputDevice.h"
 #include  "../Public/HidDevice.h"
 

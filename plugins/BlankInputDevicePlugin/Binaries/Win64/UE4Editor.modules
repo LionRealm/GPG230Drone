@@ -1,6 +1,6 @@
 {
 	"Changelist" : 2946394,
-	"BuildId" : "457af438-3a1c-48bc-b8e6-3afc2b489e1c",
+	"BuildId" : "",
 	"Modules" : 
 	{
 		"BlankInputDevicePlugin" : "UE4Editor-BlankInputDevicePlugin.dll"
